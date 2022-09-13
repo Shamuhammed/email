@@ -1,0 +1,8 @@
+нужна поддержка:
+
+Apple почтовика
+Gmail (ios, android, web)
+outlook (ios, android, web)
+yahoo (ios, android, web)
+yandex (ios, android, web)
+mail.ru (ios, android, web)
